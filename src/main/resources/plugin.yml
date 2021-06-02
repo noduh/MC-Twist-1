@@ -1,0 +1,6 @@
+name: Twist1
+version: @version@
+main: dev.noduh.minecraft.twist1.Twist1
+api-version: 1.16
+authors: [ Jorgensen ]
+description: minecraft with a twist
